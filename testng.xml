@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="default package">
+		<classes>
+			<class name="StreamsSortingDemo" />
+			<class name="loan.Day4" />
+			<class name="Selenium411" />
+			<class name="JavaStreams" />
+			<class name="loan.Day1" />
+			<class name="loan.Day3" />
+			<class name="loan.Day2" />
+		</classes>
+	</test>
+
+	<test name="Car Loan">
+		<classes>
+			<class name="loan.Day4" />
+			<class name="loan.Day1" />
+			<class name="loan.Day3" />
+			<class name="loan.Day2" />
+		</classes>
+	</test>
+</suite>
